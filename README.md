@@ -11,6 +11,7 @@ validation at service layer MVC-style structure using Beans, DAO, Service, and S
 How to Run: Import project into Eclipse / IntelliJ Configure Apache Tomcat Add Oracle JDBC Driver 
 (ojdbc.jar) to your project Set up Oracle DB & tables Deploy project
 http://localhost:8082/Library_Management/Menu.html
+
 Project Structure:
 
 
